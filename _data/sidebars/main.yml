@@ -1,7 +1,19 @@
 subitems:
-  - title: Home
-    url: /index
-  - title: Example page
-    url: /example_page
-
+  - title: Roadmap
+    url: /roadmap
+  - title: Getting FAIRDOM-SEEK
+    url: /get_seek
+  - title: Contacting Us
+    url: /contact
+  #- title: Contributing
+  #  url: #
+  - title: User Guide
+    url: /user-guide
+    subitems:
+    - title: API
+      url: /api
+  - title: Tech
+    subitems:
+    - title: Useful Links
+      url: /useful-links
   

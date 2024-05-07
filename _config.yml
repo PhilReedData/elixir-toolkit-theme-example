@@ -1,7 +1,7 @@
-title: Practice Website title
+title: FAIRDOM-SEEK Docs DEVELOPMENT SITE
 # This appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
-topnav_title: Website title
+topnav_title: FAIRDOM-SEEK Docs DEVELOPMENT SITE
 # Optional: this appears on the top navigation bar next to the main_logo.svg icon
 
 description: "Example of ELIXIR toolkit theme as a remote jekyll theme"
@@ -24,10 +24,20 @@ defaults:
       permalink: /:basename
       layout: "page"
       sidebar: main
+  -
+    scope:
+      path: "pages/help/user-guide"
+    values:
+      sidebar: user-guide
+  -
+    scope:
+      path: "pages/tech"
+    values:
+      sidebar: tech
 
 theme_variables: 
   # git_host: GitHub
-  # back_to_top: true
+  back_to_top: true
   # privacy_statement_url: /privacy
   # github_buttons: 
   #   position: top
