@@ -1,13 +1,15 @@
 title: User Guide
-title_url: /user-guide
+title_url: /help/user-guide
 subitems:
   - title: Registering in SEEK
-    url: /registering
+    url: /help/user-guide/registering
   - title: Logging into SEEK
-    url: /login
+    url: /help/user-guide/login
     subitems:
       - title: Logging into SEEK via ELIXIR AAI
-        url: /aai
+        url: /help/user-guide/aai
   - title: API introduction
-    url: /api
-    
+    url: /help/user-guide/api
+  - hr: true 
+    title: Home
+    url: /index

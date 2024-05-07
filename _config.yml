@@ -26,13 +26,20 @@ defaults:
       sidebar: main
   -
     scope:
+      path: "pages/help"
+    values:
+      permalink: /help/:basename 
+  -
+    scope:
       path: "pages/help/user-guide"
     values:
+      permalink: /help/user-guide/:basename 
       sidebar: user-guide
   -
     scope:
       path: "pages/tech"
     values:
+      permalink: /tech/:basename
       sidebar: tech
 
 theme_variables: 

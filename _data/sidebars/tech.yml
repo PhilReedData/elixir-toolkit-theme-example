@@ -2,7 +2,10 @@ title: Tech
 #title_url: /tech
 subitems:
   - title: Roadmap
-    url: /roadmap
+    url: /tech/roadmap
   - title: Useful Links
-    url: /useful-links
+    url: /tech/useful-links
+  - hr: true 
+    title: Home
+    url: /index
     

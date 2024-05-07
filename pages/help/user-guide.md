@@ -1,5 +1,6 @@
 ---
 title: FAIRDOM-SEEK User Documentation
+permalink: /help/user-guide
 ---
 
 Use the side menu to browse the user guide, or search for specific pages below.
