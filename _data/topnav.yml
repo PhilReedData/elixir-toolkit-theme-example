@@ -3,5 +3,6 @@
 subitems:
 - title: Home
   url: /index
-
+- title: User Guide
+  url: /user-guide
     

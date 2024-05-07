@@ -1,6 +1,4 @@
 subitems:
-  - title: Roadmap
-    url: /roadmap
   - title: Getting FAIRDOM-SEEK
     url: /get_seek
   - title: Contacting Us
@@ -14,6 +12,8 @@ subitems:
       url: /api
   - title: Tech
     subitems:
+    - title: Roadmap
+      url: /roadmap
     - title: Useful Links
       url: /useful-links
   
