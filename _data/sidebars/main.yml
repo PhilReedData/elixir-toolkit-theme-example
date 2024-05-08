@@ -3,8 +3,10 @@ subitems:
     url: /get_seek
   - title: Contacting Us
     url: /contact
-  #- title: Contributing
-  #  url: #
+  - title: Contributing
+    url: /contributing
+  - title: Help
+    url: /help
   - title: User Guide
     url: /help/user-guide
     subitems:

@@ -2,10 +2,10 @@ copyright: Copyright notice
 extra_line: 
 columns:
   - type: image
-    image_width: 88px
+    image_width: 64px
     width: 2
-    src: 'assets/img/main_logo.svg'
-    alt: Jekyll Bootstrap theme logo
+    src: 'assets/img/seek-logo-header.png'
+    alt: FAIRDOM-SEEK logo
   - type: links
     width: 3
     children: 
@@ -16,9 +16,11 @@ columns:
     children: 
       - url_text: Contacting Us
         url: /contact
+      - url_text: Contributing
+        url: /contributing
   - type: image
-    image_width: 88px
+    image_width: 64px
     width: 2
-    src: 'assets/img/main_logo.svg'
-    alt: Jekyll Bootstrap theme logo
+    src: 'assets/img/seek-logo-header.png'
+    alt: FAIRDOM-SEEK logo
 

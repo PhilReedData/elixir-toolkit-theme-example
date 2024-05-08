@@ -35,6 +35,7 @@ defaults:
     values:
       permalink: /help/user-guide/:basename 
       sidebar: user-guide
+      type: user_guide_page
   -
     scope:
       path: "pages/tech"
@@ -61,12 +62,12 @@ theme_variables:
   # toc:
   #   min_headings: 2
   #   headings: 'h2'
-  # topnav:
+  topnav:
     # theme: light
-    # brand_logo: assets/img/main_logo.svg
+     brand_logo: assets/img/seek-logo-header.png
     # github: true
     # twitter: false
-  # theme_color: 0d6efd
+  theme_color: 4CCAF5
   # fonts:
   #   - url towards a font
 
